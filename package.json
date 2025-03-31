@@ -2,7 +2,7 @@
   "engines": {
     "node": "20.11.1" 
   },
-  "name": "mongodb-with-express",
+  "name": "ConnectHub",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
